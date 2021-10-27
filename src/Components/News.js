@@ -68,7 +68,6 @@ export class News extends Component {
     return (
         <>
         
-        
         <h2 id="main-heading">TOP HEADLINES OF THE DAY</h2>
         <div className="flex-container">
         

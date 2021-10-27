@@ -5,7 +5,6 @@ import News from './Components/News';
 import NewsItem from './Components/NewsItem';
 
 
-
 function App() {
   return (
     <div>

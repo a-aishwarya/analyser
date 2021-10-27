@@ -23,7 +23,6 @@ body
   overflow: hidden;
   z-index: 100;
   flex-wrap: wrap;
-  
 }
 
 .card:nth-child(3n) {
