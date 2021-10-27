@@ -1,8 +1,9 @@
 import React, { Component } from "react";
 
 export default class Navbar extends Component {
-  
+
   render() {
+    
       let {title}=this.props;
     return (
       <div classNameName="App">
